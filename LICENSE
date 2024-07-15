@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DISCLAIMER:
+This software is provided for educational and informational purposes only. 
+The author assumes no responsibility for errors or omissions in the contents of the Software.
+In no event shall the author be liable for any special, direct, indirect, consequential, 
+or incidental damages or any damages whatsoever, whether in an action of contract, 
+negligence or other tort, arising out of or in connection with the use of the Software 
+or the contents of the Software. The author reserves the right to make additions, 
+deletions, or modifications to the contents in the Software at any time without prior notice.
+
+WARNING:
+The commands and instructions provided in this software are intended for use in a controlled,
+isolated environment such as a virtual machine. Executing these commands on a live, 
+production system may result in system instability, data loss, or other unintended consequences. 
+Users should proceed at their own risk and are strongly advised to thoroughly understand 
+each command before execution.
